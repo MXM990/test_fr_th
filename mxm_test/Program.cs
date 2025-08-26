@@ -11,11 +11,6 @@ namespace mxm_test
         static void Main(string[] args)
         {
             Console.WriteLine("add other line like 123");
-            Console.BackgroundColor = ConsoleColor.Yellow;
-            Console.ForegroundColor = ConsoleColor.White;
-            Console.WriteLine("Lord MXM");
-            Console.ResetColor();
-
         }
     }
 }
