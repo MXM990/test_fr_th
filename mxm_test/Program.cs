@@ -11,6 +11,7 @@ namespace mxm_test
         static void Main(string[] args)
         {
             Console.WriteLine("add other line like 123");
+            Console.WriteLine(123);
         }
     }
 }
