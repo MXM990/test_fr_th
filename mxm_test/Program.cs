@@ -12,6 +12,7 @@ namespace mxm_test
         {
             Console.WriteLine("add other line like 123");
             Console.WriteLine("123");
+            Console.WriteLine("add 123");
         }
     }
 }
