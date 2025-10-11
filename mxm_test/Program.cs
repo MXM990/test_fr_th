@@ -14,6 +14,7 @@ namespace mxm_test
             Console.WriteLine("123");
             Console.WriteLine("The great teacher is MXM");
             Console.WriteLine("E5");
+            Console.WriteLine("ABOOD");
         }
     }
 }
